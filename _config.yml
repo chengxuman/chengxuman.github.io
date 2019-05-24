@@ -1,1 +1,20 @@
-theme: jekyll-theme-merlot
+theme: jekyll-theme-
+# 个人名称或昵称
+name: chengxuman
+# 页面个人头像信息中地址展示信息
+location: chongqingshi
+# 页面个人头像信息中公司展示信息
+company: A university
+# 页面个人头像信息中职位展示信息
+position: none
+# 页面个人头像信息中GITHUB展示信息
+github: https://chengxuman.github.io
+# 页面个人头像信息中Facebook展示信息
+facebook: none
+# 页面个人头像信息中电话展示信息
+phone: 86
+# 页面个人头像信息中EMAIL展示信息
+email: 563275615@qq.com
+
+#本项目的baseurl
+baseurl: "/resume.io"
